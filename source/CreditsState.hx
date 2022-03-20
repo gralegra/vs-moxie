@@ -61,7 +61,7 @@ class CreditsState extends MusicBeatState
 			['SuS',				'discord',		'Sus',	'https://discord.gg/436c6Emptn',	'0xFF0000FF'],
 			[''],
 			["???"],
-			['Pedrosanse',		'nome',	"???",				'',	'0xFFF73838'],
+			['Amongud',		'sus',	"???",				'',	'0xFFF73838'],
 			['Andriky',		'nome',	"???",					'',	'0xFFFFBB1B'],
 			['Bolt',			'nome',			"???",					'',			'0xFF53E52C'],
 			['Jessie',			'nome',		"???",					'',		'0xFF6475F3']
