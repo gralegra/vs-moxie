@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_MOXIE",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1,
+	"idle_anim": "BF idle dance",
+	"confirm_anim": "BF HEY"
+}
